@@ -14,6 +14,7 @@ import { AppRoutingModule }     from './app-routing.module';
   imports: [
     BrowserModule,
     FormsModule,
+
     AppRoutingModule
   ],
   // This array contains the list of all components, pipes, and directives
