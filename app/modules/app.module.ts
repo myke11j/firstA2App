@@ -11,10 +11,10 @@ import { HeroService }  from '../services/hero.service';
 import { AppRoutingModule }     from './app-routing.module';
 
 @NgModule({
+  // Import all modules in this array
   imports: [
     BrowserModule,
     FormsModule,
-
     AppRoutingModule
   ],
   // This array contains the list of all components, pipes, and directives
